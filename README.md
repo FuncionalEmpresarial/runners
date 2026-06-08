@@ -85,6 +85,8 @@ Esta aplicação:
 * Utiliza os dados exclusivamente para fins analíticos e estatísticos.
 * Segue as políticas e diretrizes estabelecidas pelo Strava para desenvolvedores.
 
+Para maiores informações consulte a [Política de Privacidade](PRIVACY.md).
+
 ---
 
 ## Suporte
